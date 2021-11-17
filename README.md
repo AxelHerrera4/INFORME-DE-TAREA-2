@@ -362,7 +362,7 @@ P=0,6 * 2W= 1,2 W
 
 
 
-# Cconclusiones
+# Conclusiones
 
 
 
