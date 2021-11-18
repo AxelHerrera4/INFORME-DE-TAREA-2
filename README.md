@@ -57,6 +57,7 @@ Por lo tanto, la corriente no cambia
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
 El voltaje de la corriente es igual a la cantidad de corriente por la resistencia total del circuito.
+
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
  
@@ -77,7 +78,7 @@ I=V/100
 
 
 
-
+![](Imagenes/ejer_5.jpeg)
 
 
 
@@ -90,9 +91,17 @@ La gráfica indica que la intensidad crece de manera constante
 
 
 
+![](Imagenes/ejer_5.1.jpeg)
+
+
+
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
  
 R1=V1/I1=2V/4A=0,5Ω                            R2=V2/I2=3V/3A=1Ω                             R3=V3/I3=6V/3A=2Ω
+
+
+![](Imagenes/ejer_7.jpeg)
+
 
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
 Café=1
@@ -102,6 +111,8 @@ Rojo(tolerancia)= ±2%
 
 Por lo tanto, la resistencia es de 1580 Ω                            I=V/1580Ω
  
+![](Imagenes/ejer_9.jpeg)
+
 
 11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 R1=R2
@@ -114,7 +125,7 @@ I=V/(1 Ω)                               I=V/5Ω                                
 
 
  			 
-
+![](Imagenes/ejer_13.jpeg)
  			 
 
 Cálculo de la corriente
