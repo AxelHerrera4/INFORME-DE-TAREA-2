@@ -98,7 +98,9 @@ La potencia de salida siempre es menor que la de entrada porque una parte de la 
 ![](Imagenes/parte_11.png)
 
 
+LINK DE MAPA MENTAL:
 
+https://miro.com/app/board/o9J_liDdLTE=/
 
 # Resolución de ejercicios
 
@@ -452,7 +454,7 @@ P=0,6 * 2W= 1,2 W
 
 # VIDEO
 
-
+https://www.youtube.com/watch?v=Qn6vgIksSpM
 
 
 
