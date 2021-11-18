@@ -10,9 +10,92 @@ Objetivos específicos:
 
 # MARCO TEÓRICO (RESUMEN)
 
+La Ley de Ohm enuncia que el voltaje es directamente proporcional a la corriente del circuito, e inversamente proporcional a la resistencia total del circuito.
+
+![](Imagenes/parte_1.png)
+ 
+La relación lineal de corriente y voltaje
+Se entiende por “lineal” que, si la corriente del circuito se incrementa en cierto porcentaje, el voltaje también lo hará, y viceversa; esto ocurre siempre y cuando se considere a la resistencia como constante.
+
+![](Imagenes/parte_2.png)
+ 
+La relación inversa de corriente y resistencia
+Mientras la corriente se incrementa, la resistencia se reduce, y viceversa. Esto ocurre siempre y cuando el Voltaje sea constante.
+
+![](Imagenes/parte_3.png)
+ 
+Unidades con prefijos métricos
+Siempre se utilizarán las unidades con diferentes prefijos métricos, dependiendo de la cantidad que se esté manejando en los ejercicios. Son ejemplos: mA (miliamperios), KΩ (kilo ohmios), uV (micro voltios), etc.
+Localización de fallas
+Es la corrección de un funcionamiento defectuoso del circuito. Se compone de tres fases: análisis, planificación, y medición.
+	Análisis: Trabaja tratando de responder a preguntas como:
+	¿Alguna vez funcionó el circuito?
+	Si ha funcionado con anterioridad, ¿En qué condiciones falló?
+	¿Cuáles son los síntomas de la falla?
+	¿Cuáles son las posibles causas de la falla?
+	Planificación: Consiste en armar un plan lógico de ataque. La mejor manera es utilizando el razonamiento.
+	Medición: Se realizan mediciones en el circuito minuciosamente, para comprobar que esté en funcionamiento.
+Comparación de mediciones de V, R e I
+	Para medir voltaje, el voltímetro debe estar conectado en paralelo a través del componente.
+	Para medir corriente, el amperímetro debe estar conectado en serie con el componente.
+	Para medir resistencia, el óhmetro se debe colocar a través del componente, previamente haber retirado el componente del circuito.
+ENERGÍA Y POTENCIA
+Energía es la capacidad de hacer trabajo, potencia es la razón de cambio de la energía con respecto al tiempo.
+
+![](Imagenes/parte_4.png)
+ 
+*No hay que confundir el uso de la W cursiva, que se usa para representar energía en forma de trabajo, y la W normal, que es la potencia del sistema
 
 
+La unidad de energía kilowatt-hora (kWh)
+Dado que la potencia se expresa en watts y el tiempo en segundos, se pueden utilizar unidades de energía llamadas watt-segundo (Ws), watt-hora (Wh), y kilowatt-hora (kWh).
+ 
+ ![](Imagenes/parte_5.png)
+ 
+ 
+Potencia en un circuito eléctrico
+En un circuito eléctrico, la cantidad de potencia disipada depende de la cantidad de resistencia y de corriente
+ 
+![](Imagenes/parte_6.png)
 
+
+Sus variaciones son las siguientes:
+
+![](Imagenes/parte_7.png)
+
+![](Imagenes/parte_8.png)
+ 				 
+La relación entre potencia y corriente, voltaje, y resistencia expresada en las fórmulas precedentes se conoce como ley de Watt.
+
+POTENCIA NOMINAL EN RESISTORES
+Es la cantidad máxima de potencia que un resistor puede disipar a causa de un calentamiento excesivo del mismo. Su módulo no depende de la resistencia, sino de las características físicas del resistor.
+Si un resistor recibe más potencia de la que puede manejar, puede quemarse, o directamente variar su índice de resistencia.
+
+CONVERSIÓN DE ENERGÍA Y CAÍDA DE VOLTAJE EN UNA RESISTENCIA
+
+![](Imagenes/parte_9.png)
+ 
+Cada vez que los electrones entran en una resistencia, liberan parte de su energía dentro de la resistencia. Por eso, los electrones poseen más energía cuando entran en una resistencia que cuando salen. Al finalizar el recorrido, los electrones se encuentran con su nivel energético más bajo.
+FUENTES DE POTENCIA
+Es un dispositivo que provee potencia a una carga. La carga puede ser cualquier cosa desde un foco hasta una computadora. El producto IVSALIDA es la cantidad de potencia producida por la fuente y consumida por la carga. Para un voltaje de salida dado (VSALIDA), más corriente absorbida por la carga significa más potencia de la fuente.
+
+![](Imagenes/paerte_9.png)
+
+ 
+AMPERES-HORA NOMINALES DE BATERÍAS
+Los amperes-hora nominales determinan el tiempo durante el cual una batería puede suministrar cierta cantidad de corriente promedio hacia una carga a voltaje nominal. Mientras más corriente debe suministrar la batería, más corta es su duración.
+
+EFICIENCIA DE UNA FUENTE DE POTENCIA
+Es la relación entre la potencia que sale de un circuito, y la que entra en el circuito.
+
+ 
+![](Imagenes/parte_10.png)
+
+
+La potencia de salida siempre es menor que la de entrada porque una parte de la potencia total debe ser utilizada internamente para operar los circuitos de la fuente de potencia. A esta disipación de potencia interna se le llama normalmente pérdida de potencia.
+ 
+
+![](Imagenes/parte_11.png)
 
 
 
